@@ -1,3 +1,4 @@
+# Command
 The Command Design Pattern is a behavioral design pattern that encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests. It also provides a way to undo operations. This pattern decouples the sender and receiver of a request by allowing different objects to handle the request.
 
 Here are the main components of the Command Pattern:
